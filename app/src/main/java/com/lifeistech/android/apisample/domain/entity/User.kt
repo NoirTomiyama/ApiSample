@@ -1,4 +1,4 @@
-package com.lifeistech.android.apisample.domain.entities
+package com.lifeistech.android.apisample.domain.entity
 
 /**
  * Created by RyotaTomiyama on 2018/02/01.

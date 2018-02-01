@@ -1,8 +1,7 @@
-package com.lifeistech.android.apisample.domain.usecases
+package com.lifeistech.android.apisample.domain.usecase
 
-import com.lifeistech.android.apisample.domain.entities.Item
-import com.lifeistech.android.apisample.domain.repositories.ItemRepository
-import io.reactivex.Observable
+import com.lifeistech.android.apisample.domain.entity.Item
+import com.lifeistech.android.apisample.domain.repository.ItemRepository
 
 
 class ItemListUseCase(val itemRepository: ItemRepository) {

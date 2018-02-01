@@ -1,6 +1,5 @@
-package com.lifeistech.android.apisample.domain.repositories
+package com.lifeistech.android.apisample.domain.repository
 
-import com.lifeistech.android.apisample.domain.entities.Item
 import io.reactivex.Observable
 
 interface ItemRepository {
